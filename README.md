@@ -1,10 +1,19 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Solar System
+
+Este é um simples desafio que foi desenvolvido no módulo de Front-end da Trybe. O objetivo dessa aplicação foi aprender alguns conceitos básicos de React como:  componentes, props e composição de componentes. Junto a alguns conceitos básicos do TypeScript.
+
+A aplicação consiste em uma listagem de todos os planetas do Sistema Solar. E, além dos planetas, também  algumas das missões espaciais mais conhecidas.
+
+## Protótipo do Projeto
+O [protótipo](https://www.figma.com/file/V0ShpXzvv8OEi0DlDnXsJq/%5BProjeto%5D%5BFrontend%5D-Solar-System?type=design&node-id=2-2&mode=design&t=g5NXXVjKMOpiNqAN-0) desta aplicação assim como as instruções para sua realização foram fornecidas pela Trybe.
+
+## Ferramentas Utilizadas
+- React
+- TypeScript
+- Material Icons
+
+## Demonstração
+
+Acessar: [Clique Aqui](https://vmedeiros-solar-system.vercel.app/)
+
+![](/demo.png)
